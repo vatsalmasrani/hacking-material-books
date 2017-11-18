@@ -12,7 +12,7 @@ Kernel
 Windows
 =======
 
-Important/Helpful Links
+Important/Helpful Link
 =======================
 
 * [Finding Kernel32 Base and walking its export table.](http://www.rohitab.com/discuss/topic/38717-quick-tutorial-finding-kernel32-base-and-walking-its-export-table/)
