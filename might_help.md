@@ -17,4 +17,4 @@ Important/Helpful Link
 =======================
 
 * [Finding Kernel32 Base and walking its export table.](http://www.rohitab.com/discuss/topic/38717-quick-tutorial-finding-kernel32-base-and-walking-its-export-table/)
-
+* [Windows Shellcoding in detail (x86/32bit)](http://www.hick.org/code/skape/papers/win32-shellcode.pdf)
