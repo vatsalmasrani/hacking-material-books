@@ -2,19 +2,17 @@ Some talks/topics i found useful for me for future (could help you too.. may b l
 
 Browsers
 ========
-<br>
-<h3>Slides</h3><br>
+<h4>==Slides</h4>
 
-* https://blogs.securiteam.com/index.php/archives/3379<br>
-* https://www.slideshare.net/JeremyBrown37/browser-fuzzing-with-a-twist-and-a-shake-zeronights-2015<br>
-* [Firefox Exploitation Through JS Engine - GreHack(pdf)](https://grehack.fr/data/2017/slides/GreHack17_Get_the_Spidermonkey_off_your_back.pdf)<br>
+* https://blogs.securiteam.com/index.php/archives/3379
+* https://www.slideshare.net/JeremyBrown37/browser-fuzzing-with-a-twist-and-a-shake-zeronights-2015
+* [Firefox Exploitation Through JS Engine - GreHack(pdf)](https://grehack.fr/data/2017/slides/GreHack17_Get_the_Spidermonkey_off_your_back.pdf)
 
-<h3>Talks Videos</h3><br>
+<h4>==Talks Videos</h4>
 
 * [Firefox Exploitation Through JS Engine - GreHack](https://www.youtube.com/watch?v=B1UOGCffIEI)
- <br>
  
-<h3>Other</h3><br>
+<h4>==Other</h4>
 
 * [THE ART OF FUZZING – SLIDES AND DEMOS](https://sec-consult.com/en/blog/2017/11/the-art-of-fuzzing-slides-and-demos/index.html)
 
