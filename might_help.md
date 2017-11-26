@@ -1,9 +1,16 @@
-Some talks/topics i found useful for me in future (could help you too.. may b lol) 
+Some talks/topics i found useful for me for future (could help you too.. may b lol) 
 
 Browsers
 ========
-* https://blogs.securiteam.com/index.php/archives/3379
-* https://www.slideshare.net/JeremyBrown37/browser-fuzzing-with-a-twist-and-a-shake-zeronights-2015
+<br>
+<h3>Slides</h3><br>
+* https://blogs.securiteam.com/index.php/archives/3379<br>
+* https://www.slideshare.net/JeremyBrown37/browser-fuzzing-with-a-twist-and-a-shake-zeronights-2015<br>
+* [Firefox Exploitation Through JS Engine - GreHack(pdf)](https://grehack.fr/data/2017/slides/GreHack17_Get_the_Spidermonkey_off_your_back.pdf)<br>
+
+<h3>Talks Videos</h3><br>
+* [Firefox Exploitation Through JS Engine - GreHack](https://www.youtube.com/watch?v=B1UOGCffIEI)
+ <br>
 
 Linux
 ======
@@ -20,3 +27,4 @@ Important/Helpful Link
 * [Windows Shellcoding in detail (x86/32bit)](http://www.hick.org/code/skape/papers/win32-shellcode.pdf)
 * [ShellCode API Hashes](https://www.scriptjunkie.us/2010/03/shellcode-api-hashes/)
 * [Kernel Base Address Grabbing via PEB -- ShellCode](https://ghostbin.com/paste/vogh5vjy)
+* [x86 WinExec Shellcode](https://ghostbin.com/paste/xrujdd36)
