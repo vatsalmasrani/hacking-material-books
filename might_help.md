@@ -4,13 +4,19 @@ Browsers
 ========
 <br>
 <h3>Slides</h3><br>
+
 * https://blogs.securiteam.com/index.php/archives/3379<br>
 * https://www.slideshare.net/JeremyBrown37/browser-fuzzing-with-a-twist-and-a-shake-zeronights-2015<br>
 * [Firefox Exploitation Through JS Engine - GreHack(pdf)](https://grehack.fr/data/2017/slides/GreHack17_Get_the_Spidermonkey_off_your_back.pdf)<br>
 
 <h3>Talks Videos</h3><br>
+
 * [Firefox Exploitation Through JS Engine - GreHack](https://www.youtube.com/watch?v=B1UOGCffIEI)
  <br>
+ 
+<h3>Other</h3><br>
+
+* [THE ART OF FUZZING – SLIDES AND DEMOS](https://sec-consult.com/en/blog/2017/11/the-art-of-fuzzing-slides-and-demos/index.html)
 
 Linux
 ======
