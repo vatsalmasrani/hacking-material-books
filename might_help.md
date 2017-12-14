@@ -7,6 +7,7 @@ Browsers
 * https://blogs.securiteam.com/index.php/archives/3379
 * https://www.slideshare.net/JeremyBrown37/browser-fuzzing-with-a-twist-and-a-shake-zeronights-2015
 * [Firefox Exploitation Through JS Engine - GreHack(pdf)](https://grehack.fr/data/2017/slides/GreHack17_Get_the_Spidermonkey_off_your_back.pdf)
+* [Playing with IE11 ActiveX 0days - ZeroNights](https://2017.zeronights.ru/wp-content/uploads/materials/Playing_with_IE11_ActiveX_0days.pptx.pptm)
 
 <h4>==Talks Videos</h4>
 
@@ -23,6 +24,7 @@ Linux
 Windows
 =======
 * [MS10-058(ref++)](http://doar-e.github.io/blog/2014/03/11/first-dip-into-the-kernel-pool-ms10-058/)
+* [Hunting for Credentials Dumping in Windows Environment - ZeroNights 2017](https://2017.zeronights.org/wp-content/uploads/materials/ZN17_Kheirkhabarov_Hunting_for_Credentials_Dumping_in_Windows_Environment.pdf)
 
 Important/Helpful Link
 =======================
