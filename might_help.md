@@ -34,3 +34,4 @@ Important/Helpful Link
 * [ShellCode API Hashes](https://www.scriptjunkie.us/2010/03/shellcode-api-hashes/)
 * [Kernel Base Address Grabbing via PEB -- ShellCode](https://ghostbin.com/paste/vogh5vjy)
 * [x86 WinExec Shellcode](https://ghostbin.com/paste/xrujdd36)
+* [Useful Exploit-DB Papers and other stuffs](https://ghostbin.com/paste/5swzkkgx)
