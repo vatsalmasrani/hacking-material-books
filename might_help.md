@@ -27,6 +27,7 @@ Windows
 * [Hunting for Credentials Dumping in Windows Environment - ZeroNights 2017](https://2017.zeronights.org/wp-content/uploads/materials/ZN17_Kheirkhabarov_Hunting_for_Credentials_Dumping_in_Windows_Environment.pdf)
 * [Write your first driver - MSDN](https://docs.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/writing-your-first-driver)
 * [Concepts for all driver developers - MSDN](https://docs.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/concepts-and-knowledge-for-all-driver-developers)
+* [Awesome Windows-Exploitation](https://github.com/enddo/awesome-windows-exploitation) | [WindowsExploitation(Resources)](https://github.com/recodeking/WindowsExploitation)
 
 Important/Helpful Link
 =======================
