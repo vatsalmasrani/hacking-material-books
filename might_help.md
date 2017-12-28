@@ -39,3 +39,4 @@ Important/Helpful Link
 * [x86 WinExec Shellcode](https://ghostbin.com/paste/xrujdd36)
 * [Useful Exploit-DB Papers and other stuffs](https://ghostbin.com/paste/5swzkkgx)
 * [InfoSec Resources](https://github.com/rmusser01/Infosec_Reference)
+* External Resources Collection Repos : [it-sec](https://www.it-sec-catalog.info/) | [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing/blob/master/README.md) | [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md)
