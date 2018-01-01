@@ -28,6 +28,7 @@ Windows
 * [Write your first driver - MSDN](https://docs.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/writing-your-first-driver)
 * [Concepts for all driver developers - MSDN](https://docs.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/concepts-and-knowledge-for-all-driver-developers)
 * [Awesome Windows-Exploitation](https://github.com/enddo/awesome-windows-exploitation) | [WindowsExploitation(Resources)](https://github.com/recodeking/WindowsExploitation)
+* [windows internals refrence](https://www.geoffchappell.com/studies/windows/win32/index.htm)
 
 Important/Helpful Link
 =======================
