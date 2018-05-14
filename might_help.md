@@ -29,6 +29,9 @@ Windows
 * [Concepts for all driver developers - MSDN](https://docs.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/concepts-and-knowledge-for-all-driver-developers)
 * [Awesome Windows-Exploitation](https://github.com/enddo/awesome-windows-exploitation) | [WindowsExploitation(Resources)](https://github.com/recodeking/WindowsExploitation)
 * [windows internals refrence](https://www.geoffchappell.com/studies/windows/win32/index.htm)
+* [Windows Exception Codes](https://msdn.microsoft.com/en-us/library/windows/desktop/ms679356(v=vs.85).aspx)
+* [SEDEBUG Privs Windows](http://woshub.com/obtain-sedebugprivilege-debug-program-policy-enabled/)
+
 
 Important/Helpful Link
 =======================
