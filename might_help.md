@@ -45,3 +45,4 @@ Important/Helpful Link
 * [InfoSec Resources](https://github.com/rmusser01/Infosec_Reference)
 * External Resources Collection Repos : [it-sec](https://www.it-sec-catalog.info/) | [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing/blob/master/README.md) | [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md)
 * Some Good Books : [http://index-of.es/Exploit/](http://index-of.es/Exploit/)
+* [Total 360 Malware Rip Offs](https://ti.360.net)
