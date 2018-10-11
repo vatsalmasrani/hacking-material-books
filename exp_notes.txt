@@ -1,19 +1,24 @@
 Some notes might be helpful while exploitation. Its not perfect cos i to wrote it all while learning.
 If i miss something, please do ping me at dreamer45[@]protonmail(.)com. I'll keep updating it.
 
+Load symbols windbg:
+  .symfix c:\MyCache
+  .sympath
+  cache*c:\MyCache;SRV*https://msdl.microsoft.com/download/symbols
+
 Generate JS_LE shellcode via MSFVENOM:
-msfvenom -p windows/exec cmd="calc" -a x86 -f js_le -o sc.txt
+  msfvenom -p windows/exec cmd="calc" -a x86 -f js_le -o sc.txt
 
 Methods to push shellcode after successful exploitation:
-* JMP [Register]
-* CALL [Register]
-* Blind Return
-* pop ret
-* push ret
-* jmp [reg]+[offset]
-* pushing sc anywhere in 
-(Source : https://www.corelan.be/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-2/)
+  * JMP [Register]
+  * CALL [Register]
+  * Blind Return
+  * pop ret
+  * push ret
+  * jmp [reg]+[offset]
+  * pushing sc anywhere in 
+  (Source : https://www.corelan.be/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-2/)
 
 Symptoms of UAF:
-* EAX=f0f0f0f0 ;  freed heap allocation
-* calling of class destructur function inside stack trace.
+  * EAX=f0f0f0f0 ;  freed heap allocation
+  * calling of class destructur function inside stack trace.
