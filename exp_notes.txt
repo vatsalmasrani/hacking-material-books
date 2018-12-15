@@ -22,3 +22,10 @@ Methods to push shellcode after successful exploitation:
 Symptoms of UAF:
   * EAX=f0f0f0f0 ;  freed heap allocation
   * calling of class destructur function inside stack trace.
+
+Customize MSF shellcodes: 
+  * https://github.com/rapid7/metasploit-framework/blob/master/external/source/shellcode/windows/x86/src/block/block_api.asm
+  * Choose shellcode to modify in /external/source/shellcode/windows/x86
+  * Customize it accordingly
+  * build : embedded/framework/external/source/shellcode/windows/x86# python build.py <shellcode_name>
+  Article : https://blog.cobaltstrike.com/2014/02/12/modifying-metasploits-stager-shellcode/
